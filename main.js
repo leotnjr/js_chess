@@ -1,3 +1,5 @@
+alert("test 0")
+
 let columns = "ABCDEFGH";
 let last_selected = "";
 let color_shift = 0;
