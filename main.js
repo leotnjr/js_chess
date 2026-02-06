@@ -60,7 +60,6 @@ function leaveSquare() {
 }
 
 function selectSquare() {
-  //this will be a pain
 }
 
 function defineColor(col, row, element) {
